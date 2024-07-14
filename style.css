@@ -1,0 +1,65 @@
+*{
+    background-color: rgb(49, 40, 29);
+    color: aliceblue;
+    /* background-color: light rgb(63, 49, 49); */
+}
+table{
+    border-collapse: collapse;
+    /* border-color: chocolate; */
+    width: 80%;
+    height: 400px;
+    font-size: ;
+    margin: auto;
+
+    /* border: 2px solid rgb(168, 146, 146); */
+}
+.tr2{
+    font-size: x-large;
+    color: rgb(240, 240, 63);
+}
+
+.tr2-a{
+    font-size: x-large;
+    color: rgb(219, 219, 145);
+}
+.tr2-b{
+    font-size: x-large;
+    color: rgb(194, 189, 206);
+}
+td,th{
+    border: 2px solid rgb(87, 51, 51);
+}
+tr>td{
+    color: rgb(175, 155, 155);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+tr>th{
+    color: white;
+}
+#a1{
+    background-color: white;
+    color: black;
+    
+}
+tr>#a{
+    background-color: yellow;
+}
+tr>#b{
+    background-color: red;
+}
+tr>#c{
+    background-color: skyblue;
+}
+tr>td>button{
+    background-color: rgb(247, 187, 23);
+    border-radius: 18px;
+    padding: 10px;
+    width: 70%;
+}
+.align>td{
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
